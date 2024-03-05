@@ -74,15 +74,15 @@ Display individual RGB planes of the image.
 Close the application.
 
 ## Usage:
-. Run the file main 'MainApp.mlapp'.
+Run the file main 'MainApp.mlapp'.
 
 ## System Requirements
 -MATLAB R2021a or later
 -Image Processing Toolbox 
 
 ## Author:
-- These programs were created by Zayouta Bilal.
--This application offers a comprehensive set of image processing tools to manipulate images according to your requirements. Feel free to explore and utilize these functions for your image processing tasks.
+These programs were created by Zayouta Bilal.
+This application offers a comprehensive set of image processing tools to manipulate images according to your requirements. Feel free to explore and utilize these functions for your image processing tasks.
 
 ## License:
 - These programs are licensed under the  unlicense. See the LICENSE file for details.
